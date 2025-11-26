@@ -4,6 +4,8 @@ This project made in 2023–24 is a simulation of an activity-tracking wristband
 
 A demonstration video of the working prototype is provided [here](https://youtu.be/_2kJxMbubrM).
 
+The .zip is on the main branch, the uncompressed files are on the master branch.
+
 ## Hardware & Platforms
 
 Microcontroller: The design uses a Samsung S3C44B0X (ARM7TDMI) microcontroller on a dedicated development board (Embest S3CEV40). The ARM7 core and built-in peripherals provide timers, ADC, UART, etc.
